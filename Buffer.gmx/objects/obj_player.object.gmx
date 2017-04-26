@@ -33,6 +33,30 @@
           </argument>
         </arguments>
       </action>
+      <action>
+        <libid>1</libid>
+        <id>611</id>
+        <kind>6</kind>
+        <userelative>-1</userelative>
+        <isquestion>0</isquestion>
+        <useapplyto>-1</useapplyto>
+        <exetype>2</exetype>
+        <functionname></functionname>
+        <codestring></codestring>
+        <whoName>self</whoName>
+        <relative>0</relative>
+        <isnot>0</isnot>
+        <arguments>
+          <argument>
+            <kind>1</kind>
+            <string>beeGun</string>
+          </argument>
+          <argument>
+            <kind>0</kind>
+            <string>false</string>
+          </argument>
+        </arguments>
+      </action>
     </event>
     <event eventtype="1" enumb="0">
       <action>
@@ -94,10 +118,17 @@ instance_destroy();
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>NewBullet = instance_create(x,y,obj_bullet);
+            <string>if (beeGun==true)
+{
+NewBullet = instance_create(x,y,bee_obj);
 NewBullet.MyDirection = BulletDirection;
 NewBullet.MySpeed = 10;
-
+}
+else{
+NewBullet = instance_create(x,y,obj_bullet);
+NewBullet.MyDirection = BulletDirection;
+NewBullet.MySpeed = 10;
+}
 if (keyboard_check(vk_left)||keyboard_check(vk_right)||keyboard_check(vk_up)||keyboard_check(vk_down))
 {
     alarm[0] = 10;
@@ -297,6 +328,32 @@ if (keyboard_check(vk_left)||keyboard_check(vk_right)||keyboard_check(vk_up)||ke
             <string>sword=instance_create (x,y+30,obj_sword);
 
 </string>
+          </argument>
+        </arguments>
+      </action>
+    </event>
+    <event eventtype="9" enumb="50">
+      <action>
+        <libid>1</libid>
+        <id>611</id>
+        <kind>6</kind>
+        <userelative>-1</userelative>
+        <isquestion>0</isquestion>
+        <useapplyto>-1</useapplyto>
+        <exetype>2</exetype>
+        <functionname></functionname>
+        <codestring></codestring>
+        <whoName>self</whoName>
+        <relative>0</relative>
+        <isnot>0</isnot>
+        <arguments>
+          <argument>
+            <kind>1</kind>
+            <string>beeGun</string>
+          </argument>
+          <argument>
+            <kind>0</kind>
+            <string>true</string>
           </argument>
         </arguments>
       </action>

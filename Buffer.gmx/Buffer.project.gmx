@@ -9,14 +9,24 @@
     <sprite>sprites\spr_player</sprite>
     <sprite>sprites\spr_bullet</sprite>
     <sprite>sprites\spr_sword</sprite>
+    <sprite>sprites\Beegun_placeholder_sp</sprite>
+    <sprite>sprites\bee_placeholder_spr</sprite>
   </sprites>
   <backgrounds name="background"/>
-  <paths name="paths"/>
+  <paths name="paths">
+    <path>paths\beepathright_pth</path>
+    <path>paths\beepathip_pth</path>
+    <path>paths\beepathleft_pth</path>
+    <path>paths\path5</path>
+  </paths>
   <objects name="objects">
     <object>objects\obj_player</object>
     <object>objects\obj_bullet</object>
     <object>objects\obj_sword</object>
     <object>objects\obj_enemy</object>
+    <object>objects\beegun_ob</object>
+    <object>objects\bee_obj</object>
+    <object>objects\beeup_obj</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room0</room>

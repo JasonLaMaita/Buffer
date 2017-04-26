@@ -10,6 +10,8 @@
     <sprite>sprites\spr_bullet</sprite>
     <sprite>sprites\spr_sword</sprite>
     <sprite>sprites\spr_beegun</sprite>
+    <sprite>sprites\spr_bee</sprite>
+    <sprite>sprites\honey</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
@@ -18,6 +20,7 @@
     <object>objects\obj_bullet</object>
     <object>objects\obj_sword</object>
     <object>objects\obj_enemy</object>
+    <object>objects\obj_bee</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room0</room>

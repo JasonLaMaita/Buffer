@@ -4,29 +4,46 @@
     <Config>Configs\Default</Config>
   </Configs>
   <NewExtensions/>
-  <sounds name="sound"/>
+  <sounds name="sound">
+    <sound>sound\Bullet_hit</sound>
+    <sound>sound\Button_Hover</sound>
+    <sound>sound\Button_Select</sound>
+    <sound>sound\Death</sound>
+    <sound>sound\Footstep</sound>
+    <sound>sound\Gunshot</sound>
+    <sound>sound\Stabby_Stabby</sound>
+  </sounds>
   <sprites name="sprites">
     <sprite>sprites\spr_player</sprite>
     <sprite>sprites\spr_bullet</sprite>
     <sprite>sprites\spr_sword</sprite>
-    <sprite>sprites\Beegun_placeholder_sp</sprite>
-    <sprite>sprites\bee_placeholder_spr</sprite>
-  </sprites>
-  <backgrounds name="background"/>
+
   <paths name="paths">
     <path>paths\beepathright_pth</path>
     <path>paths\beepathip_pth</path>
     <path>paths\beepathleft_pth</path>
     <path>paths\path5</path>
   </paths>
+    <sprite>sprites\spr_beegun</sprite>
+    <sprite>sprites\spr_bee</sprite>
+    <sprite>sprites\honey</sprite>
+  </sprites>
+  <backgrounds name="background">
+    <background>background\background0</background>
+  </backgrounds>
+
   <objects name="objects">
     <object>objects\obj_player</object>
     <object>objects\obj_bullet</object>
     <object>objects\obj_sword</object>
     <object>objects\obj_enemy</object>
+
     <object>objects\beegun_ob</object>
     <object>objects\bee_obj</object>
     <object>objects\beeup_obj</object>
+
+    <object>objects\obj_bee</object>
+
   </objects>
   <rooms name="rooms">
     <room>rooms\room0</room>

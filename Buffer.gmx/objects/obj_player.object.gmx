@@ -213,7 +213,7 @@ if (keyboard_check(vk_left)||keyboard_check(vk_right)||keyboard_check(vk_up)||ke
         <arguments>
           <argument>
             <kind>6</kind>
-            <sound>Death</sound>
+            <sound>-100</sound>
           </argument>
           <argument>
             <kind>3</kind>

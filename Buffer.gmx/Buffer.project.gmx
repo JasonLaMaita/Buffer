@@ -25,6 +25,8 @@
     <sprite>sprites\spr_squid_gun</sprite>
     <sprite>sprites\spr_squid</sprite>
     <sprite>sprites\spr_kamisquiddo</sprite>
+    <sprite>sprites\spr_inksplosion</sprite>
+    <sprite>sprites\spr_bombsplosion</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths">

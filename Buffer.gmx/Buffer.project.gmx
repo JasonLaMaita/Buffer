@@ -27,6 +27,8 @@
     <sprite>sprites\spr_kamisquiddo</sprite>
     <sprite>sprites\spr_inksplosion</sprite>
     <sprite>sprites\spr_bombsplosion</sprite>
+    <sprite>sprites\spr_hand_bee</sprite>
+    <sprite>sprites\spr_kamikrazy</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths">

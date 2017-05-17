@@ -33,6 +33,8 @@
     <object>objects\missile_obj</object>
     <object>objects\obj_player</object>
     <object>objects\object3</object>
+    <object>objects\object4</object>
+    <object>objects\obj_bullet</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room0</room>

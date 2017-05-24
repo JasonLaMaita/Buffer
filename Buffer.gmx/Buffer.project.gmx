@@ -12,6 +12,10 @@
     <sound>sound\Footstep</sound>
     <sound>sound\Gunshot</sound>
     <sound>sound\Stabby_Stabby</sound>
+    <sound>sound\A_Snowy_Place</sound>
+    <sound>sound\Combat_Time_Ver_2</sound>
+    <sound>sound\Game_Over</sound>
+    <sound>sound\Item_Fanfare</sound>
   </sounds>
   <sprites name="sprites">
     <sprite>sprites\bee_placeholder_spr</sprite>

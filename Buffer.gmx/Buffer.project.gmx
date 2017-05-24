@@ -29,6 +29,8 @@
     <sprite>sprites\spr_bombsplosion</sprite>
     <sprite>sprites\spr_hand_bee</sprite>
     <sprite>sprites\spr_kamikrazy</sprite>
+    <sprite>sprites\spr_big_ivankov</sprite>
+    <sprite>sprites\spr_tiny_ivankov</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths">
@@ -49,6 +51,9 @@
     <object>objects\obj_player</object>
     <object>objects\obj_sword</object>
   </objects>
+  <rooms name="rooms">
+    <room>rooms\room0</room>
+  </rooms>
   <help>
     <rtf>help.rtf</rtf>
   </help>

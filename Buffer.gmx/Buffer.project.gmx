@@ -31,6 +31,13 @@
     <sprite>sprites\spr_kamikrazy</sprite>
     <sprite>sprites\spr_big_ivankov</sprite>
     <sprite>sprites\spr_tiny_ivankov</sprite>
+    <sprite>sprites\doctor_enemy_spr</sprite>
+    <sprite>sprites\enemy_spr</sprite>
+    <sprite>sprites\joystick1_spr</sprite>
+    <sprite>sprites\joytick2_spr</sprite>
+    <sprite>sprites\ranged_enemy</sprite>
+    <sprite>sprites\spr_melee_enemy_2</sprite>
+    <sprite>sprites\missile</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths">
@@ -50,6 +57,9 @@
     <object>objects\obj_honey</object>
     <object>objects\obj_player</object>
     <object>objects\obj_sword</object>
+    <object>objects\missile_obj</object>
+    <object>objects\object3</object>
+    <object>objects\object4</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room0</room>

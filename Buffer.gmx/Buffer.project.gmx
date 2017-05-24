@@ -5,6 +5,7 @@
   </Configs>
   <NewExtensions/>
   <sounds name="sound">
+<<<<<<< HEAD
     <sound>sound\Bullet_hit</sound>
     <sound>sound\Button_Hover</sound>
     <sound>sound\Button_Select</sound>
@@ -64,6 +65,33 @@
     <object>objects\missile_obj</object>
     <object>objects\object3</object>
     <object>objects\object4</object>
+=======
+    <sound>sound\A_Snowy_Place</sound>
+    <sound>sound\Combat_Time_Ver_2</sound>
+    <sound>sound\Item_Fanfare</sound>
+    <sound>sound\Game_Over</sound>
+  </sounds>
+  <sprites name="sprites">
+    <sprite>sprites\spr_sword</sprite>
+    <sprite>sprites\spr_bullet</sprite>
+    <sprite>sprites\spr_player_down</sprite>
+    <sprite>sprites\spr_enemy_down</sprite>
+    <sprite>sprites\spr_player_left</sprite>
+    <sprite>sprites\spr_enemy_left</sprite>
+    <sprite>sprites\spr_player_right</sprite>
+    <sprite>sprites\spr_enemy_right</sprite>
+    <sprite>sprites\spr_player_up</sprite>
+    <sprite>sprites\SPppPPPppPPPPPPPPPppp</sprite>
+    <sprite>sprites\spr_achievement_sam</sprite>
+  </sprites>
+  <backgrounds name="background"/>
+  <paths name="paths"/>
+  <objects name="objects">
+    <object>objects\obj_player</object>
+    <object>objects\obj_bullet</object>
+    <object>objects\obj_sword</object>
+    <object>objects\obj_enemy</object>
+>>>>>>> refs/remotes/origin/Sam's-Branch
   </objects>
   <rooms name="rooms">
     <room>rooms\room0</room>

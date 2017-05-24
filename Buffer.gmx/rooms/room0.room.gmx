@@ -52,10 +52,9 @@
   </views>
   <instances>
     <instance objName="object3" x="160" y="608" name="inst_C16ACCB3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_enemy" x="128" y="288" name="inst_97E80259" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_enemy" x="128" y="288" name="inst_97E80259" locked="0" code="" scaleX="2" scaleY="2.03225803375244" colour="4294967295" rotation="0"/>
     <instance objName="obj_enemy" x="288" y="320" name="inst_AB9C7D81" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_player" x="416" y="640" name="inst_257076EA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="missile_obj" x="192" y="160" name="inst_710C4385" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_enemy" x="416" y="416" name="inst_36FFFF00" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="object4" x="864" y="608" name="inst_3D35AE46" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>

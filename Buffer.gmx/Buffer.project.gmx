@@ -25,6 +25,10 @@
     <sprite>sprites\missile</sprite>
     <sprite>sprites\joystick1_spr</sprite>
     <sprite>sprites\joytick2_spr</sprite>
+    <sprite>sprites\enemy_spr</sprite>
+    <sprite>sprites\spr_melee_enemy_2</sprite>
+    <sprite>sprites\ranged_enemy</sprite>
+    <sprite>sprites\doctor_enemy_spr</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
@@ -35,6 +39,7 @@
     <object>objects\object3</object>
     <object>objects\object4</object>
     <object>objects\obj_bullet</object>
+    <object>objects\obj_sword</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room0</room>

@@ -42,8 +42,21 @@
     <sprite>sprites\ranged_enemy</sprite>
     <sprite>sprites\spr_melee_enemy_2</sprite>
     <sprite>sprites\missile</sprite>
+    <sprite>sprites\Healthbar100_</sprite>
+    <sprite>sprites\Healthbar90</sprite>
+    <sprite>sprites\Healthbar80</sprite>
+    <sprite>sprites\Healthbar70</sprite>
+    <sprite>sprites\Healthbar60</sprite>
+    <sprite>sprites\Healthbar50</sprite>
+    <sprite>sprites\Healthbar40</sprite>
+    <sprite>sprites\Healthbar30</sprite>
+    <sprite>sprites\Healthbar20</sprite>
+    <sprite>sprites\Healthbar10</sprite>
+    <sprite>sprites\Healthbar0</sprite>
   </sprites>
-  <backgrounds name="background"/>
+  <backgrounds name="background">
+    <background>background\Background1</background>
+  </backgrounds>
   <paths name="paths">
     <path>paths\beepath</path>
     <path>paths\beepathip_pth</path>

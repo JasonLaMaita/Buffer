@@ -31,8 +31,11 @@
     <sprite>sprites\spr_kamikrazy</sprite>
     <sprite>sprites\spr_big_ivankov</sprite>
     <sprite>sprites\spr_tiny_ivankov</sprite>
+    <sprite>sprites\spr_ivan_walk</sprite>
   </sprites>
-  <backgrounds name="background"/>
+  <backgrounds name="background">
+    <background>background\flag</background>
+  </backgrounds>
   <paths name="paths">
     <path>paths\beepath</path>
     <path>paths\beepathip_pth</path>
@@ -52,6 +55,7 @@
     <object>objects\obj_sword</object>
   </objects>
   <rooms name="rooms">
+    <room>rooms\russia</room>
     <room>rooms\room0</room>
   </rooms>
   <help>

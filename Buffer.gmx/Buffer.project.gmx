@@ -23,6 +23,8 @@
     <sprite>sprites\spr_player</sprite>
     <sprite>sprites\spr_sword</sprite>
     <sprite>sprites\spr_HRLS</sprite>
+    <sprite>sprites\spr_playbutton</sprite>
+    <sprite>sprites\spr_titlescreen</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background0</background>
@@ -34,6 +36,13 @@
     <path>paths\beepathright_pth</path>
     <path>paths\path5</path>
   </paths>
+  <objects name="objects">
+    <object>objects\obj_playbutton</object>
+    <object>objects\obj_titlescreen</object>
+  </objects>
+  <rooms name="rooms">
+    <room>rooms\roomben</room>
+  </rooms>
   <help>
     <rtf>help.rtf</rtf>
   </help>

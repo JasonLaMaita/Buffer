@@ -42,6 +42,8 @@
     <sprite>sprites\ranged_enemy</sprite>
     <sprite>sprites\spr_melee_enemy_2</sprite>
     <sprite>sprites\missile</sprite>
+    <sprite>sprites\wizerd_spr</sprite>
+    <sprite>sprites\spr_figet_spunner</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths">

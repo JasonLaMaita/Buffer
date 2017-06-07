@@ -25,6 +25,7 @@
     <sprite>sprites\spr_HRLS</sprite>
     <sprite>sprites\spr_playbutton</sprite>
     <sprite>sprites\spr_titlescreen</sprite>
+    <sprite>sprites\spr_logo</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background0</background>
@@ -36,12 +37,17 @@
     <path>paths\beepathright_pth</path>
     <path>paths\path5</path>
   </paths>
+  <fonts name="fonts">
+    <font>fonts\font0</font>
+  </fonts>
   <objects name="objects">
     <object>objects\obj_playbutton</object>
     <object>objects\obj_titlescreen</object>
+    <object>objects\obj_logo</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\roomben</room>
+    <room>rooms\room1</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>

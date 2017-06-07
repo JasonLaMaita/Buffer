@@ -4,75 +4,51 @@
     <Config>Configs\Default</Config>
   </Configs>
   <NewExtensions/>
-  <sounds name="sound">
-    <sound>sound\Bullet_hit</sound>
-    <sound>sound\Button_Hover</sound>
-    <sound>sound\Button_Select</sound>
-    <sound>sound\Death</sound>
-    <sound>sound\Footstep</sound>
-    <sound>sound\Gunshot</sound>
-    <sound>sound\Stabby_Stabby</sound>
-    <sound>sound\A_Snowy_Place</sound>
-    <sound>sound\Combat_Time_Ver_2</sound>
-    <sound>sound\Game_Over</sound>
-    <sound>sound\Item_Fanfare</sound>
-  </sounds>
+  <sounds name="sound"/>
   <sprites name="sprites">
     <sprite>sprites\bee_placeholder_spr</sprite>
     <sprite>sprites\Beegun_placeholder_sp</sprite>
-    <sprite>sprites\spr_bee</sprite>
-    <sprite>sprites\spr_beegun</sprite>
-    <sprite>sprites\spr_bullet</sprite>
-    <sprite>sprites\spr_honey</sprite>
-    <sprite>sprites\spr_player</sprite>
-    <sprite>sprites\spr_sword</sprite>
-    <sprite>sprites\spr_squid_gun</sprite>
-    <sprite>sprites\spr_squid</sprite>
-    <sprite>sprites\spr_kamisquiddo</sprite>
-    <sprite>sprites\spr_inksplosion</sprite>
-    <sprite>sprites\spr_bombsplosion</sprite>
-    <sprite>sprites\spr_hand_bee</sprite>
-    <sprite>sprites\spr_kamikrazy</sprite>
-    <sprite>sprites\spr_big_ivankov</sprite>
-    <sprite>sprites\spr_tiny_ivankov</sprite>
-<<<<<<< HEAD
-    <sprite>sprites\spr_ivan_walk</sprite>
-=======
     <sprite>sprites\doctor_enemy_spr</sprite>
     <sprite>sprites\enemy_spr</sprite>
     <sprite>sprites\joystick1_spr</sprite>
     <sprite>sprites\joytick2_spr</sprite>
-    <sprite>sprites\ranged_enemy</sprite>
-    <sprite>sprites\spr_melee_enemy_2</sprite>
     <sprite>sprites\missile</sprite>
->>>>>>> origin/master
+    <sprite>sprites\ranged_enemy</sprite>
+    <sprite>sprites\spr_bee</sprite>
+    <sprite>sprites\spr_beegun</sprite>
+    <sprite>sprites\spr_big_ivankov</sprite>
+    <sprite>sprites\spr_bombsplosion</sprite>
+    <sprite>sprites\spr_bullet</sprite>
+    <sprite>sprites\spr_hand_bee</sprite>
+    <sprite>sprites\spr_honey</sprite>
+    <sprite>sprites\spr_inksplosion</sprite>
+    <sprite>sprites\spr_kamikrazy</sprite>
+    <sprite>sprites\spr_kamisquiddo</sprite>
+    <sprite>sprites\spr_melee_enemy_2</sprite>
+    <sprite>sprites\spr_player</sprite>
+    <sprite>sprites\spr_squid</sprite>
+    <sprite>sprites\spr_squid_gun</sprite>
+    <sprite>sprites\spr_sword</sprite>
+    <sprite>sprites\spr_tiny_ivankov</sprite>
+    <sprite>sprites\sprite0</sprite>
+    <sprite>sprites\ladrillos_marrones</sprite>
   </sprites>
-  <backgrounds name="background">
-    <background>background\flag</background>
-  </backgrounds>
-  <paths name="paths">
-    <path>paths\beepath</path>
-    <path>paths\beepathip_pth</path>
-    <path>paths\beepathleft_pth</path>
-    <path>paths\beepathright_pth</path>
-    <path>paths\path5</path>
-  </paths>
+  <backgrounds name="background"/>
+  <paths name="paths"/>
   <objects name="objects">
-    <object>objects\bee_obj</object>
-    <object>objects\beegun_ob</object>
-    <object>objects\beeup_obj</object>
-    <object>objects\obj_bee</object>
-    <object>objects\obj_bullet</object>
-    <object>objects\obj_enemy</object>
+    <object>objects\brick</object>
+    <object>objects\obj_squid_gun</object>
+    <object>objects\obj_squid</object>
+    <object>objects\obj_kamisquid</object>
+    <object>objects\obj_ivankov_small</object>
+    <object>objects\obj_big_ivankov</object>
     <object>objects\obj_honey</object>
-    <object>objects\obj_player</object>
-    <object>objects\obj_sword</object>
-    <object>objects\missile_obj</object>
-    <object>objects\object3</object>
-    <object>objects\object4</object>
+    <object>objects\obj_inksplosion</object>
+    <object>objects\obj_bombsplosion</object>
+    <object>objects\obj_beegun</object>
+    <object>objects\obj_portrait_beegun</object>
   </objects>
   <rooms name="rooms">
-    <room>rooms\russia</room>
     <room>rooms\room0</room>
   </rooms>
   <help>

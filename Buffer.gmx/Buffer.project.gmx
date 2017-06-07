@@ -32,6 +32,8 @@
     <sprite>sprites\spr_tiny_ivankov</sprite>
     <sprite>sprites\sprite0</sprite>
     <sprite>sprites\ladrillos_marrones</sprite>
+    <sprite>sprites\spr_rifle</sprite>
+    <sprite>sprites\spr_muzzle_flash</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
@@ -47,6 +49,7 @@
     <object>objects\obj_bombsplosion</object>
     <object>objects\obj_beegun</object>
     <object>objects\obj_portrait_beegun</object>
+    <object>objects\obj_rifle</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room0</room>

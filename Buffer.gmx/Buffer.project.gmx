@@ -44,6 +44,7 @@
     <sprite>sprites\missile</sprite>
     <sprite>sprites\wizerd_spr</sprite>
     <sprite>sprites\spr_figet_spunner</sprite>
+    <sprite>sprites\wiz_hat_spr</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths">

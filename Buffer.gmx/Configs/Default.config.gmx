@@ -230,8 +230,8 @@
     <option_frequency>0</option_frequency>
     <option_frontimage>nil</option_frontimage>
     <option_fullscreen>false</option_fullscreen>
-    <option_gameguid>{6D6B0156-1693-4BCB-8E1E-9CB4C0253427}</option_gameguid>
-    <option_gameid>360214245</option_gameid>
+    <option_gameguid>{AEEA2A09-BDF5-478B-807D-F384DF514A1A}</option_gameguid>
+    <option_gameid>394741411</option_gameid>
     <option_haptic_effects>false</option_haptic_effects>
     <option_hasloadimage>false</option_hasloadimage>
     <option_helpkey>true</option_helpkey>
@@ -358,7 +358,7 @@
     <option_mac_appstore_incoming_allow>false</option_mac_appstore_incoming_allow>
     <option_mac_appstore_outgoing_allow>false</option_mac_appstore_outgoing_allow>
     <option_mac_build_version>0</option_mac_build_version>
-    <option_mac_copyright_info>(c)2016 CompanyName Ltd...</option_mac_copyright_info>
+    <option_mac_copyright_info>(c)2012 CompanyName Ltd...</option_mac_copyright_info>
     <option_mac_create_app_store>true</option_mac_create_app_store>
     <option_mac_display_name>Buffer</option_mac_display_name>
     <option_mac_enable_retina>false</option_mac_enable_retina>
@@ -428,7 +428,7 @@
     <option_savekey>true</option_savekey>
     <option_scale>-1</option_scale>
     <option_scaleprogress>true</option_scaleprogress>
-    <option_sci_UseSCI>0</option_sci_UseSCI>
+    <option_sci_UseSCI>false</option_sci_UseSCI>
     <option_sci_serverLocation></option_sci_serverLocation>
     <option_screenkey>true</option_screenkey>
     <option_screenshotkey>true</option_screenshotkey>
@@ -660,10 +660,10 @@
     <option_xbone_require_xbox_live>true</option_xbone_require_xbox_live>
     <option_xbone_revision_version>0</option_xbone_revision_version>
     <option_xbone_scale>-1</option_xbone_scale>
-    <option_xbone_service_config_id>1234ABCD-1234-1234-1234-123456789ABC</option_xbone_service_config_id>
+    <option_xbone_service_config_id></option_xbone_service_config_id>
     <option_xbone_splash_screen_colour>#464646</option_xbone_splash_screen_colour>
     <option_xbone_texture_page>1024</option_xbone_texture_page>
-    <option_xbone_title_id>1234ABCD</option_xbone_title_id>
+    <option_xbone_title_id></option_xbone_title_id>
   </Options>
   <ConfigConstants/>
 </Config>

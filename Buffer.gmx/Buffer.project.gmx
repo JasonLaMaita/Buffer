@@ -30,7 +30,7 @@
     <sprite>sprites\doctor_enemy_spr</sprite>
     <sprite>sprites\enemy_spr</sprite>
     <sprite>sprites\joystick1_spr</sprite>
-    <sprite>sprites\joytick2_spr</sprite>
+    <sprite>sprites\joystick2_spr</sprite>
     <sprite>sprites\ladrillos_marrones</sprite>
     <sprite>sprites\missile</sprite>
     <sprite>sprites\ranged_enemy</sprite>
@@ -45,6 +45,7 @@
     <sprite>sprites\spr_melee_enemy_2</sprite>
     <sprite>sprites\spr_muzzle_flash</sprite>
     <sprite>sprites\spr_rifle</sprite>
+    <sprite>sprites\spr_texas_taskmaster</sprite>
     <sprite>sprites\spr_squid</sprite>
     <sprite>sprites\spr_squid_gun</sprite>
     <sprite>sprites\spr_tiny_ivankov</sprite>
@@ -94,6 +95,8 @@
     <object>objects\obj_ranged_enemy</object>
     <object>objects\obj_HRLS</object>
     <object>objects\obj_doctor</object>
+    <object>objects\obj_joystick_numero_uno</object>
+    <object>objects\obj_joystick_numero_dos</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\roomben</room>

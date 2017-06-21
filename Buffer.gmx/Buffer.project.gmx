@@ -45,14 +45,18 @@
     <sprite>sprites\wizerd_spr</sprite>
     <sprite>sprites\spr_figet_spunner</sprite>
     <sprite>sprites\wiz_hat_spr</sprite>
+    <sprite>sprites\Zilla_Enemy_spr</sprite>
   </sprites>
-  <backgrounds name="background"/>
+  <backgrounds name="background">
+    <background>background\background0</background>
+  </backgrounds>
   <paths name="paths">
     <path>paths\beepath</path>
     <path>paths\beepathip_pth</path>
     <path>paths\beepathleft_pth</path>
     <path>paths\beepathright_pth</path>
     <path>paths\path5</path>
+    <path>paths\Enemy_Pattern</path>
   </paths>
   <objects name="objects">
     <object>objects\bee_obj</object>
@@ -65,11 +69,36 @@
     <object>objects\obj_player</object>
     <object>objects\obj_sword</object>
     <object>objects\missile_obj</object>
-    <object>objects\object3</object>
     <object>objects\object4</object>
+    <object>objects\brick</object>
+    <object>objects\obj_beegun</object>
+    <object>objects\obj_big_ivankov</object>
+    <object>objects\obj_bombsplosion</object>
+    <object>objects\obj_doctor</object>
+    <object>objects\obj_enemy_new</object>
+    <object>objects\obj_honey_new</object>
+    <object>objects\obj_HRLS</object>
+    <object>objects\obj_inksplosion</object>
+    <object>objects\obj_ivankov_small</object>
+    <object>objects\obj_kamisquid</object>
+    <object>objects\obj_logo</object>
+    <object>objects\obj_melee_enemy</object>
+    <object>objects\obj_music_controler</object>
+    <object>objects\obj_muzzle_flash</object>
+    <object>objects\obj_playbutton</object>
+    <object>objects\obj_portrait_beegun</object>
+    <object>objects\obj_ranged_enemy</object>
+    <object>objects\obj_rifle</object>
+    <object>objects\obj_squid</object>
+    <object>objects\obj_squid_gun</object>
+    <object>objects\obj_titlescreen</object>
   </objects>
   <rooms name="rooms">
-    <room>rooms\room0</room>
+    <room>rooms\chris_test_room_for_guns_second_amendment</room>
+    <room>rooms\real_room_chris</room>
+    <room>rooms\room_Zach</room>
+    <room>rooms\room1</room>
+    <room>rooms\roomben</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>

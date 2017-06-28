@@ -5,105 +5,130 @@
   </Configs>
   <NewExtensions/>
   <sounds name="sound">
+    <sound>sound\A_Snowy_Place</sound>
     <sound>sound\Bullet_hit</sound>
     <sound>sound\Button_Hover</sound>
     <sound>sound\Button_Select</sound>
+    <sound>sound\Combat_Time_Ver_2</sound>
     <sound>sound\Death</sound>
     <sound>sound\Footstep</sound>
-    <sound>sound\Gunshot</sound>
-    <sound>sound\Stabby_Stabby</sound>
-    <sound>sound\A_Snowy_Place</sound>
-    <sound>sound\Combat_Time_Ver_2</sound>
     <sound>sound\Game_Over</sound>
+    <sound>sound\Gunshot</sound>
     <sound>sound\Item_Fanfare</sound>
+    <sound>sound\Stabby_Stabby</sound>
   </sounds>
   <sprites name="sprites">
+    <sprite>sprites\ladrillos_marrones</sprite>
+    <sprite>sprites\spr_hivemind</sprite>
+    <sprite>sprites\spr_HRLS</sprite>
+    <sprite>sprites\spr_ivan_walk</sprite>
+    <sprite>sprites\spr_logo</sprite>
+    <sprite>sprites\spr_muzzle_flash</sprite>
+    <sprite>sprites\spr_rifle</sprite>
+    <sprite>sprites\spr_titlescreen</sprite>
+    <sprite>sprites\sprite0</sprite>
+    <sprite>sprites\sprite25</sprite>
+    <sprite>sprites\wiz_hat_spr</sprite>
     <sprite>sprites\bee_placeholder_spr</sprite>
     <sprite>sprites\Beegun_placeholder_sp</sprite>
     <sprite>sprites\spr_bee</sprite>
     <sprite>sprites\spr_beegun</sprite>
-    <sprite>sprites\spr_bullet</sprite>
-    <sprite>sprites\spr_honey</sprite>
-    <sprite>sprites\spr_player</sprite>
-    <sprite>sprites\spr_sword</sprite>
-    <sprite>sprites\spr_squid_gun</sprite>
-    <sprite>sprites\spr_squid</sprite>
-    <sprite>sprites\spr_kamisquiddo</sprite>
-    <sprite>sprites\spr_inksplosion</sprite>
-    <sprite>sprites\spr_bombsplosion</sprite>
-    <sprite>sprites\spr_hand_bee</sprite>
-    <sprite>sprites\spr_kamikrazy</sprite>
     <sprite>sprites\spr_big_ivankov</sprite>
+    <sprite>sprites\spr_bombsplosion</sprite>
+    <sprite>sprites\spr_bullet</sprite>
+    <sprite>sprites\spr_hand_bee</sprite>
+    <sprite>sprites\spr_honey</sprite>
+    <sprite>sprites\spr_inksplosion</sprite>
+    <sprite>sprites\spr_kamikrazy</sprite>
+    <sprite>sprites\spr_kamisquiddo</sprite>
+    <sprite>sprites\spr_player</sprite>
+    <sprite>sprites\spr_squid</sprite>
+    <sprite>sprites\spr_squid_gun</sprite>
+    <sprite>sprites\spr_sword</sprite>
     <sprite>sprites\spr_tiny_ivankov</sprite>
     <sprite>sprites\doctor_enemy_spr</sprite>
     <sprite>sprites\enemy_spr</sprite>
     <sprite>sprites\joystick1_spr</sprite>
     <sprite>sprites\joytick2_spr</sprite>
-    <sprite>sprites\ranged_enemy</sprite>
-    <sprite>sprites\spr_melee_enemy_2</sprite>
     <sprite>sprites\missile</sprite>
-    <sprite>sprites\wizerd_spr</sprite>
+    <sprite>sprites\ranged_enemy</sprite>
     <sprite>sprites\spr_figet_spunner</sprite>
-    <sprite>sprites\wiz_hat_spr</sprite>
+    <sprite>sprites\spr_melee_enemy_2</sprite>
+    <sprite>sprites\wizerd_spr</sprite>
+    <sprite>sprites\joystick2_spr</sprite>
+    <sprite>sprites\spr_playbutton</sprite>
+    <sprite>sprites\spr_texas_taskmaster</sprite>
     <sprite>sprites\Zilla_Enemy_spr</sprite>
     <sprite>sprites\Wiz_Hat_</sprite>
     <sprite>sprites\Health_Bar</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background0</background>
+    <background>background\Blue</background>
+    <background>background\flag</background>
   </backgrounds>
   <paths name="paths">
     <path>paths\beepath</path>
     <path>paths\beepathip_pth</path>
     <path>paths\beepathleft_pth</path>
     <path>paths\beepathright_pth</path>
-    <path>paths\path5</path>
     <path>paths\Enemy_Pattern</path>
+<<<<<<< HEAD
     <path>paths\Enemy_Path2</path>
     <path>paths\Enemy_Path3</path>
+=======
+    <path>paths\path5</path>
+>>>>>>> origin/master
   </paths>
   <objects name="objects">
     <object>objects\bee_obj</object>
     <object>objects\beegun_ob</object>
     <object>objects\beeup_obj</object>
-    <object>objects\obj_bee</object>
-    <object>objects\obj_bullet</object>
-    <object>objects\obj_enemy</object>
-    <object>objects\obj_honey</object>
-    <object>objects\obj_player</object>
-    <object>objects\obj_sword</object>
-    <object>objects\missile_obj</object>
-    <object>objects\object4</object>
     <object>objects\brick</object>
+    <object>objects\missile_obj</object>
+    <object>objects\obj_bee</object>
     <object>objects\obj_beegun</object>
     <object>objects\obj_big_ivankov</object>
     <object>objects\obj_bombsplosion</object>
+    <object>objects\obj_bullet</object>
     <object>objects\obj_doctor</object>
+    <object>objects\obj_enemy</object>
+    <object>objects\obj_enemy_melee_2</object>
     <object>objects\obj_enemy_new</object>
+    <object>objects\obj_honey</object>
     <object>objects\obj_honey_new</object>
     <object>objects\obj_HRLS</object>
     <object>objects\obj_inksplosion</object>
     <object>objects\obj_ivankov_small</object>
+    <object>objects\obj_joystick_numero_dos</object>
+    <object>objects\obj_joystick_numero_uno</object>
     <object>objects\obj_kamisquid</object>
     <object>objects\obj_logo</object>
     <object>objects\obj_melee_enemy</object>
     <object>objects\obj_music_controler</object>
     <object>objects\obj_muzzle_flash</object>
     <object>objects\obj_playbutton</object>
+    <object>objects\obj_player</object>
     <object>objects\obj_portrait_beegun</object>
     <object>objects\obj_ranged_enemy</object>
     <object>objects\obj_rifle</object>
     <object>objects\obj_squid</object>
     <object>objects\obj_squid_gun</object>
+    <object>objects\obj_sword</object>
     <object>objects\obj_titlescreen</object>
+<<<<<<< HEAD
     <object>objects\obj_Health_Bar</object>
+=======
+    <object>objects\object4</object>
+>>>>>>> origin/master
   </objects>
   <rooms name="rooms">
-    <room>rooms\chris_test_room_for_guns_second_amendment</room>
+    <room>rooms\roomben</room>
     <room>rooms\real_room_chris</room>
+    <room>rooms\chris_test_room_for_guns_second_amendment</room>
     <room>rooms\room_Zach</room>
     <room>rooms\room1</room>
-    <room>rooms\roomben</room>
+    <room>rooms\russia</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>

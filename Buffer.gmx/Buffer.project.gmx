@@ -44,16 +44,22 @@
     <sprite>sprites\spr_kamisquiddo</sprite>
     <sprite>sprites\spr_melee_enemy_2</sprite>
 <<<<<<< HEAD
+<<<<<<< HEAD
     <sprite>sprites\missile</sprite>
     <sprite>sprites\wizerd_spr</sprite>
     <sprite>sprites\spr_figet_spunner</sprite>
 =======
+=======
+>>>>>>> 3c0b3b00390b833d3e3363f4f87eb5c6c6ea575a
     <sprite>sprites\spr_muzzle_flash</sprite>
     <sprite>sprites\spr_rifle</sprite>
     <sprite>sprites\spr_texas_taskmaster</sprite>
     <sprite>sprites\spr_squid</sprite>
     <sprite>sprites\spr_squid_gun</sprite>
     <sprite>sprites\spr_tiny_ivankov</sprite>
+<<<<<<< HEAD
+>>>>>>> 3c0b3b00390b833d3e3363f4f87eb5c6c6ea575a
+=======
 >>>>>>> 3c0b3b00390b833d3e3363f4f87eb5c6c6ea575a
   </sprites>
   <backgrounds name="background">
@@ -96,6 +102,7 @@
     <object>objects\obj_squid_gun</object>
     <object>objects\obj_sword</object>
 <<<<<<< HEAD
+<<<<<<< HEAD
     <object>objects\missile_obj</object>
     <object>objects\object4</object>
     <object>objects\brick</object>
@@ -122,6 +129,8 @@
   </objects>
   <rooms name="rooms"/>
 =======
+=======
+>>>>>>> 3c0b3b00390b833d3e3363f4f87eb5c6c6ea575a
     <object>objects\obj_muzzle_flash</object>
     <object>objects\obj_melee_enemy</object>
     <object>objects\obj_enemy_melee_2</object>

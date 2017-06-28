@@ -46,6 +46,8 @@
     <sprite>sprites\spr_figet_spunner</sprite>
     <sprite>sprites\wiz_hat_spr</sprite>
     <sprite>sprites\Zilla_Enemy_spr</sprite>
+    <sprite>sprites\Wiz_Hat_</sprite>
+    <sprite>sprites\Health_Bar</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background0</background>
@@ -57,6 +59,8 @@
     <path>paths\beepathright_pth</path>
     <path>paths\path5</path>
     <path>paths\Enemy_Pattern</path>
+    <path>paths\Enemy_Path2</path>
+    <path>paths\Enemy_Path3</path>
   </paths>
   <objects name="objects">
     <object>objects\bee_obj</object>
@@ -92,6 +96,7 @@
     <object>objects\obj_squid</object>
     <object>objects\obj_squid_gun</object>
     <object>objects\obj_titlescreen</object>
+    <object>objects\obj_Health_Bar</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\chris_test_room_for_guns_second_amendment</room>

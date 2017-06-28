@@ -45,10 +45,13 @@
     <sprite>sprites\spr_melee_enemy_2</sprite>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     <sprite>sprites\missile</sprite>
     <sprite>sprites\wizerd_spr</sprite>
     <sprite>sprites\spr_figet_spunner</sprite>
 =======
+=======
+>>>>>>> 3c0b3b00390b833d3e3363f4f87eb5c6c6ea575a
 =======
 >>>>>>> 3c0b3b00390b833d3e3363f4f87eb5c6c6ea575a
     <sprite>sprites\spr_muzzle_flash</sprite>
@@ -58,6 +61,9 @@
     <sprite>sprites\spr_squid_gun</sprite>
     <sprite>sprites\spr_tiny_ivankov</sprite>
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> 3c0b3b00390b833d3e3363f4f87eb5c6c6ea575a
+=======
 >>>>>>> 3c0b3b00390b833d3e3363f4f87eb5c6c6ea575a
 =======
 >>>>>>> 3c0b3b00390b833d3e3363f4f87eb5c6c6ea575a
@@ -103,6 +109,7 @@
     <object>objects\obj_sword</object>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     <object>objects\missile_obj</object>
     <object>objects\object4</object>
     <object>objects\brick</object>
@@ -129,6 +136,8 @@
   </objects>
   <rooms name="rooms"/>
 =======
+=======
+>>>>>>> 3c0b3b00390b833d3e3363f4f87eb5c6c6ea575a
 =======
 >>>>>>> 3c0b3b00390b833d3e3363f4f87eb5c6c6ea575a
     <object>objects\obj_muzzle_flash</object>
